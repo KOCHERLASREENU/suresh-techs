@@ -1,2 +1,2 @@
-# suresh-techs
-SureshTechs Websites
+# sree
+sreeTechs Websites
